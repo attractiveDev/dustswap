@@ -1,0 +1,9 @@
+{
+  "name": "ETH Mainnet Beta",
+  "chain_id": "1",
+  "write_rpc": "https://rpc.ankr.com/eth",
+  "read_rpc": "https://rpc.ankr.com/eth",
+  "symbol": "ETH",
+  "explorer": "https://etherscan.io/address/0x5f65b93645dc893160fd98c482f93e30850e7bba#writeContract",
+  "injectContract": "0x5f65b93645Dc893160Fd98C482F93e30850E7bbA"
+}
